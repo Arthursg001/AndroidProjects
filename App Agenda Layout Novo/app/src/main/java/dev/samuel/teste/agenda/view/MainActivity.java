@@ -23,13 +23,6 @@ import dev.samuel.teste.agenda.controller.ImcContoller;
 import dev.samuel.teste.agenda.database.IMC_BD;
 import dev.samuel.teste.agenda.model.Calculadora;
 
-/*
-Autor: Juan Francisco Sánchez González
-Fecha: 07/02/2023
-Clase: Actividad que contiene la barra de menú lateral (NavigationDrawer). Para cargar el contenido de la activity
-se utiliza un ViewFlipper.
-*/
-
 public class MainActivity extends AppCompatActivity {
 
     // Constante Contenido Actividad
