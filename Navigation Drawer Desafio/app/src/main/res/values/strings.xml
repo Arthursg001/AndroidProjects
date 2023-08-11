@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="item1_nav">Atividade 1</string>
+    <string name="item2_nav">Atividade 2</string>
+    <string name="item3_nav">Atividade 3</string>
+    <string name="titulo_nv">Navigation Drawer com Atividades</string>
+
+    <string name="open">Abrir</string>
+    <string name="close">Fechar</string>
+    <string name="action_settings">menu\n</string>
+
+
+    <string name="txt_titulo">App Agenda</string>
+    <string name="txt_hint_edit_TituloDoCompromisso">Titulo do Compromisso</string>
+    <string name="txt_hint_edit_Data">Data (dd/mm/yyy)</string>
+    <string name="txt_hint_edit_Hora">Hora (hh:mm)</string>
+    <string name="txt_hint_edit_Local">Local</string>
+    <string name="txt_button_Limpar">Limpar</string>
+    <string name="txt_button_Salvar">Salvar</string>
+    <string name="txt_button_Finalizar">Finalizar</string>
+</resources>
